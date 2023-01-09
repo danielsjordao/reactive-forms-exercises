@@ -1,3 +1,7 @@
+# Proposta da Atividade
+
+Desenvolvimento de técnicas para elaboração de Reactive Forms com Validators, errors, dirty e touched.
+
 # ReactiveForms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
