@@ -2,6 +2,14 @@
 
 Desenvolvimento de técnicas para elaboração de Reactive Forms com Validators, errors, dirty e touched.
 
+## Introduction to forms in Angular
+
+Handling user input with forms is the cornerstone of many common applications. Applications use forms to enable users to log in, to update a profile, to enter sensitive information, and to perform many other data-entry tasks.
+
+Angular provides two different approaches to handling user input through forms: reactive and template-driven. Both capture user input events from the view, validate the user input, create a form model and data model to update, and provide a way to track changes.
+
+This guide provides information to help you decide which type of form works best for your situation. It introduces the common building blocks used by both approaches. It also summarizes the key differences between the two approaches, and demonstrates those differences in the context of setup, data flow, and testing.
+
 # ReactiveForms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
