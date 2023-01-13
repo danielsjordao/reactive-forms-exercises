@@ -1,6 +1,10 @@
 # Proposta da Atividade
 
-Desenvolvimento de técnicas para elaboração de Reactive Forms com Validators, errors, dirty e touched.
+Desenvolvimento de técnicas para elaboração de Reactive Forms:
+- Validators; 
+- Errors; 
+- Dirty; 
+- Touched.
 
 ## Introduction to forms in Angular
 
